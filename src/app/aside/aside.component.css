@@ -1,0 +1,27 @@
+.pages
+{
+	display: flex;
+	flex-direction: column;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.pages a{
+	text-decoration: none;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.pages a:hover{
+	background-color: rgb(133, 188, 255);
+}
+h4{
+	color: blue;
+	font-weight: 700;
+}
+h2{
+	color: red;
+	font-weight: 700;
+
+}
